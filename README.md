@@ -1,5 +1,12 @@
 # Bag-of-Words-Meets-Bags-of-Popcorn
-i am using ubuntu so i have installed machine learning library in my system. if you want to install these library follow following steps
+
+This is a kaggle tutorial compition problem in which sentiment analysis is to be done. This problem have two goals:
+
+1. Basic Natural Language Processing: Part 1 of this tutorial is intended for beginners and covers basic natural language processing techinques such as "Bag of words" and "TFIDF" as features.
+
+2. Deep learning for text Understanding: we delve into how to train a model using Word2vec and how to use the resulting word vectors for sentiment analysis.
+
+I am using ubuntu so i have installed machine learning library in my system. If you want to install these library follow following steps
 step 1 - install jupyter notebook in ubuntu
 sudo apt-get -y install python2.7 python-pip python-dev
 
@@ -32,9 +39,8 @@ and i have applied mainly two machine learning algorithms on these featurs which
 1. Naive Bayes
 2. Logistic Regression
 
-In word embedding i have used embedding layer and lstm in keras.
+In word embedding i have used embedding layer and LSTM in keras.
 
 Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis.
 
-kaggle submission.png is screenshot of my kaggle submission.
-all folder contain the training and testing data for our problem.
+
